@@ -1,0 +1,301 @@
+﻿id_reclamo,cliente,producto_servicio,descripcion_reclamo,fecha_reclamo,estado_reclamo,responsable,respuesta,fecha_respuesta,nivel_satisfaccion,nivel_satisfaccion_mapeada
+RCL0001,María Rodríguez,Shampoo,Vino abierto o sin sello,2025-03-22,Pendiente,Mateo Quintero,Contactamos al cliente para solución,2025-03-25,Muy insatisfecho,1
+RCL0002,Santiago Ruiz,Cepillo de baño,El producto llegó en mal estado,2025-04-04,Pendiente,Ana Sánchez,El caso fue cerrado por falta de respuesta,2025-04-06,Insatisfecho,2
+RCL0003,Valentina Mendoza,Cepillo de baño,Vino abierto o sin sello,2025-02-10,Resuelto,Manuela Pineda,Contactamos al cliente para solución,2025-02-20,Insatisfecho,2
+RCL0004,María Rodríguez,Suavizante,Tuvo un olor desagradable,2025-04-29,Cerrado,Lucía Peña,Estamos gestionando una compensación,2025-05-07,Neutral,3
+RCL0005,Andrés Gómez,Toallas húmedas,El producto llegó en mal estado,2025-04-12,Cerrado,Mateo Quintero,El producto será recogido para revisión,2025-04-15,Insatisfecho,2
+RCL0006,Paola Castro,Cepillo de baño,No corresponde con la descripción,2025-03-17,Pendiente,Lucía Peña,Solicitamos más información al cliente,2025-03-20,Neutral,3
+RCL0007,Andrés Gómez,Papel higiénico,El empaque llegó roto,2025-04-17,En proceso,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-04-25,Muy satisfecho,5
+RCL0008,Fernando Rojas,Papel higiénico,Tuvo un olor desagradable,2025-03-15,Resuelto,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-03-22,Muy satisfecho,5
+RCL0009,Carlos López,Detergente líquido,No corresponde con la descripción,2025-02-11,En proceso,Manuela Pineda,El caso fue cerrado por falta de respuesta,2025-02-15,Satisfecho,4
+RCL0010,María Rodríguez,Cloro,La presentación no es la adecuada,2025-03-30,Pendiente,Lucía Peña,Solicitamos más información al cliente,2025-04-05,Satisfecho,4
+RCL0011,Paola Castro,Detergente líquido,Presentó fugas al primer uso,2025-04-02,Cerrado,Daniel Ortega,El caso fue cerrado por falta de respuesta,2025-04-11,Neutral,3
+RCL0012,Santiago Ruiz,Detergente líquido,No hace el efecto esperado,2025-04-05,En proceso,Manuela Pineda,El producto será recogido para revisión,2025-04-11,Insatisfecho,2
+RCL0013,Carlos López,Desinfectante,La presentación no es la adecuada,2025-03-28,Resuelto,Manuela Pineda,El caso fue cerrado por falta de respuesta,2025-03-30,Neutral,3
+RCL0014,Andrés Gómez,Detergente líquido,Vino abierto o sin sello,2025-04-13,Resuelto,Pedro Romero,Estamos revisando con el proveedor,2025-04-19,Satisfecho,4
+RCL0015,Alejandro Vargas,Detergente líquido,No funcionó correctamente,2025-03-14,Resuelto,Daniel Ortega,Hemos enviado un reemplazo sin costo,2025-03-18,Neutral,3
+RCL0016,Valentina Mendoza,Suavizante,No hace el efecto esperado,2025-04-19,Cerrado,Lucía Peña,Solicitamos más información al cliente,2025-04-28,Neutral,3
+RCL0017,Andrés Gómez,Cloro,No hace el efecto esperado,2025-02-18,Cerrado,Mateo Quintero,El caso fue cerrado por falta de respuesta,2025-02-26,Neutral,3
+RCL0018,María Rodríguez,Toallas húmedas,Vino abierto o sin sello,2025-03-26,En proceso,Sebastián Cárdenas,Contactamos al cliente para solución,2025-04-05,Neutral,3
+RCL0019,Natalia Jiménez,Limpiavidrios,No corresponde con la descripción,2025-04-02,En proceso,Pedro Romero,Estamos revisando con el proveedor,2025-04-12,Muy insatisfecho,1
+RCL0020,Carlos López,Detergente líquido,Tuvo un olor desagradable,2025-04-23,Cerrado,Mateo Quintero,Procedimos con el reembolso completo,2025-05-02,Neutral,3
+RCL0021,Alejandro Vargas,Limpiavidrios,No cumplió con mis expectativas,2025-04-12,Pendiente,Lucía Peña,Procedimos con el reembolso completo,2025-04-16,Satisfecho,4
+RCL0022,Jorge Ramírez,Desinfectante,No hace el efecto esperado,2025-05-05,Resuelto,Esteban Díaz,El caso fue cerrado por falta de respuesta,2025-05-13,Muy satisfecho,5
+RCL0023,Paola Castro,Papel higiénico,No funcionó correctamente,2025-04-06,Cerrado,Carolina Vélez,El reclamo fue escalado al área de calidad,2025-04-12,Satisfecho,4
+RCL0024,Andrés Gómez,Papel higiénico,Presentó fugas al primer uso,2025-02-14,En proceso,Esteban Díaz,El reclamo fue escalado al área de calidad,2025-02-17,Satisfecho,4
+RCL0025,Luis Herrera,Toallas húmedas,No funcionó correctamente,2025-03-28,Pendiente,Carolina Vélez,Procedimos con el reembolso completo,2025-03-31,Muy satisfecho,5
+RCL0026,Juan Pérez,Cloro,Vino abierto o sin sello,2025-03-12,Pendiente,Manuela Pineda,Solicitamos más información al cliente,2025-03-21,Insatisfecho,2
+RCL0027,Carlos López,Desinfectante,El empaque llegó roto,2025-04-11,En proceso,Esteban Díaz,Fue solucionado con una nueva entrega,2025-04-12,Neutral,3
+RCL0028,Valentina Mendoza,Shampoo,El empaque llegó roto,2025-04-28,Cerrado,Juliana Salazar,El producto será recogido para revisión,2025-05-08,Neutral,3
+RCL0029,Jorge Ramírez,Cepillo de baño,El empaque llegó roto,2025-02-14,Resuelto,Lucía Peña,Hemos enviado un reemplazo sin costo,2025-02-18,Satisfecho,4
+RCL0030,Laura Martínez,Jabón antibacterial,No funcionó correctamente,2025-03-09,En proceso,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-03-12,Insatisfecho,2
+RCL0031,Andrés Gómez,Papel higiénico,No corresponde con la descripción,2025-04-16,En proceso,Manuela Pineda,Fue solucionado con una nueva entrega,2025-04-20,Satisfecho,4
+RCL0032,Alejandro Vargas,Shampoo,No funcionó correctamente,2025-03-31,Resuelto,Ana Sánchez,Procedimos con el reembolso completo,2025-04-01,Muy insatisfecho,1
+RCL0033,Juan Pérez,Cepillo de baño,No funcionó correctamente,2025-02-27,Resuelto,Esteban Díaz,Hemos enviado un reemplazo sin costo,2025-03-07,Insatisfecho,2
+RCL0034,Valentina Mendoza,Toallas húmedas,No corresponde con la descripción,2025-04-29,Cerrado,Carolina Vélez,Procedimos con el reembolso completo,2025-04-30,Muy satisfecho,5
+RCL0035,Natalia Jiménez,Cepillo de baño,Presentó fugas al primer uso,2025-05-07,Resuelto,Juliana Salazar,Procedimos con el reembolso completo,2025-05-17,Neutral,3
+RCL0036,Valentina Mendoza,Suavizante,El producto llegó en mal estado,2025-02-15,Cerrado,Ana Sánchez,Fue solucionado con una nueva entrega,2025-02-23,Insatisfecho,2
+RCL0037,Alejandro Vargas,Suavizante,La presentación no es la adecuada,2025-03-22,Resuelto,Pedro Romero,Contactamos al cliente para solución,2025-03-30,Muy insatisfecho,1
+RCL0038,Valentina Mendoza,Cepillo de baño,No corresponde con la descripción,2025-02-27,Resuelto,Mateo Quintero,El reclamo fue escalado al área de calidad,2025-03-01,Satisfecho,4
+RCL0039,Camila Morales,Desinfectante,No corresponde con la descripción,2025-04-12,En proceso,Ana Sánchez,Procedimos con el reembolso completo,2025-04-21,Satisfecho,4
+RCL0040,Paola Castro,Toallas húmedas,Presentó fugas al primer uso,2025-05-03,Resuelto,Carolina Vélez,Solicitamos más información al cliente,2025-05-04,Muy satisfecho,5
+RCL0041,Fernando Rojas,Cloro,Tuvo un olor desagradable,2025-04-02,En proceso,Pedro Romero,Estamos revisando con el proveedor,2025-04-09,Muy satisfecho,5
+RCL0042,Santiago Ruiz,Shampoo,El producto llegó en mal estado,2025-05-01,Resuelto,Sebastián Cárdenas,Estamos revisando con el proveedor,2025-05-02,Satisfecho,4
+RCL0043,Fernando Rojas,Papel higiénico,No hace el efecto esperado,2025-03-06,Resuelto,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-03-16,Muy insatisfecho,1
+RCL0044,Camila Morales,Toallas húmedas,El producto llegó en mal estado,2025-02-27,Resuelto,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-03-06,Satisfecho,4
+RCL0045,Natalia Jiménez,Papel higiénico,No cumplió con mis expectativas,2025-03-21,Cerrado,Lucía Peña,El reclamo fue escalado al área de calidad,2025-03-27,Insatisfecho,2
+RCL0046,Valentina Mendoza,Detergente líquido,No corresponde con la descripción,2025-02-21,Pendiente,Juliana Salazar,El producto será recogido para revisión,2025-03-01,Muy insatisfecho,1
+RCL0047,Juan Pérez,Suavizante,Vino abierto o sin sello,2025-04-19,Pendiente,Esteban Díaz,Fue solucionado con una nueva entrega,2025-04-29,Muy insatisfecho,1
+RCL0048,Santiago Ruiz,Cloro,La presentación no es la adecuada,2025-03-17,Resuelto,Pedro Romero,Contactamos al cliente para solución,2025-03-22,Muy insatisfecho,1
+RCL0049,María Rodríguez,Detergente líquido,La presentación no es la adecuada,2025-04-29,Pendiente,Ana Sánchez,El producto será recogido para revisión,2025-05-09,Insatisfecho,2
+RCL0050,Alejandro Vargas,Limpiavidrios,No cumplió con mis expectativas,2025-04-08,Resuelto,Daniel Ortega,Estamos revisando con el proveedor,2025-04-14,Muy insatisfecho,1
+RCL0051,María Rodríguez,Toallas húmedas,No funcionó correctamente,2025-03-24,Cerrado,Manuela Pineda,Contactamos al cliente para solución,2025-03-25,Muy satisfecho,5
+RCL0052,Diana Torres,Suavizante,El empaque llegó roto,2025-03-16,Cerrado,Lucía Peña,Solicitamos más información al cliente,2025-03-19,Neutral,3
+RCL0053,Jorge Ramírez,Cloro,La presentación no es la adecuada,2025-04-16,Cerrado,Manuela Pineda,Fue solucionado con una nueva entrega,2025-04-17,Neutral,3
+RCL0054,Santiago Ruiz,Cepillo de baño,Presentó fugas al primer uso,2025-03-17,Cerrado,Pedro Romero,El caso fue cerrado por falta de respuesta,2025-03-22,Neutral,3
+RCL0055,Andrés Gómez,Papel higiénico,El empaque llegó roto,2025-04-22,Pendiente,Mateo Quintero,Contactamos al cliente para solución,2025-05-02,Muy insatisfecho,1
+RCL0056,Andrés Gómez,Desinfectante,Vino abierto o sin sello,2025-04-13,En proceso,Lucía Peña,Hemos enviado un reemplazo sin costo,2025-04-18,Insatisfecho,2
+RCL0057,Fernando Rojas,Detergente líquido,No cumplió con mis expectativas,2025-02-22,Pendiente,Pedro Romero,Estamos gestionando una compensación,2025-02-24,Satisfecho,4
+RCL0058,Paola Castro,Suavizante,No hace el efecto esperado,2025-04-25,En proceso,Sebastián Cárdenas,Procedimos con el reembolso completo,2025-05-02,Muy insatisfecho,1
+RCL0059,Natalia Jiménez,Limpiavidrios,No corresponde con la descripción,2025-05-03,En proceso,Ana Sánchez,Fue solucionado con una nueva entrega,2025-05-04,Neutral,3
+RCL0060,María Rodríguez,Suavizante,El producto llegó en mal estado,2025-03-17,Resuelto,Esteban Díaz,Estamos gestionando una compensación,2025-03-22,Muy satisfecho,5
+RCL0061,Natalia Jiménez,Shampoo,El empaque llegó roto,2025-02-21,Cerrado,Pedro Romero,El producto será recogido para revisión,2025-02-22,Muy insatisfecho,1
+RCL0062,Andrés Gómez,Cloro,Presentó fugas al primer uso,2025-02-15,Cerrado,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-02-21,Muy satisfecho,5
+RCL0063,Luis Herrera,Limpiavidrios,No corresponde con la descripción,2025-04-11,Pendiente,Daniel Ortega,Procedimos con el reembolso completo,2025-04-14,Muy insatisfecho,1
+RCL0064,Camila Morales,Cloro,No corresponde con la descripción,2025-04-06,Pendiente,Lucía Peña,Solicitamos más información al cliente,2025-04-14,Satisfecho,4
+RCL0065,Paola Castro,Papel higiénico,El producto llegó en mal estado,2025-05-06,Pendiente,Lucía Peña,Estamos revisando con el proveedor,2025-05-08,Muy satisfecho,5
+RCL0066,Jorge Ramírez,Limpiavidrios,No funcionó correctamente,2025-04-16,Resuelto,Esteban Díaz,Estamos revisando con el proveedor,2025-04-19,Satisfecho,4
+RCL0067,Jorge Ramírez,Suavizante,El empaque llegó roto,2025-03-21,Cerrado,Sebastián Cárdenas,Estamos revisando con el proveedor,2025-03-30,Muy satisfecho,5
+RCL0068,Juan Pérez,Papel higiénico,El producto llegó en mal estado,2025-05-11,Resuelto,Sebastián Cárdenas,Hemos enviado un reemplazo sin costo,2025-05-16,Muy satisfecho,5
+RCL0069,Fernando Rojas,Cepillo de baño,No cumplió con mis expectativas,2025-03-06,Resuelto,Carolina Vélez,Solicitamos más información al cliente,2025-03-16,Neutral,3
+RCL0070,Paola Castro,Detergente líquido,Vino abierto o sin sello,2025-04-04,Cerrado,Lucía Peña,El caso fue cerrado por falta de respuesta,2025-04-14,Muy insatisfecho,1
+RCL0071,Valentina Mendoza,Shampoo,La presentación no es la adecuada,2025-03-30,Cerrado,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-04-07,Satisfecho,4
+RCL0072,María Rodríguez,Papel higiénico,El producto llegó en mal estado,2025-02-26,En proceso,Manuela Pineda,El caso fue cerrado por falta de respuesta,2025-03-04,Insatisfecho,2
+RCL0073,Andrés Gómez,Suavizante,El empaque llegó roto,2025-03-03,En proceso,Juliana Salazar,Contactamos al cliente para solución,2025-03-13,Neutral,3
+RCL0074,Fernando Rojas,Jabón antibacterial,Vino abierto o sin sello,2025-04-02,Cerrado,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-04-11,Muy satisfecho,5
+RCL0075,Valentina Mendoza,Shampoo,Presentó fugas al primer uso,2025-04-07,En proceso,Ana Sánchez,Estamos revisando con el proveedor,2025-04-16,Muy satisfecho,5
+RCL0076,Camila Morales,Suavizante,No cumplió con mis expectativas,2025-02-23,Resuelto,Carolina Vélez,Procedimos con el reembolso completo,2025-03-01,Neutral,3
+RCL0077,Valentina Mendoza,Suavizante,No funcionó correctamente,2025-02-13,Cerrado,Sebastián Cárdenas,Contactamos al cliente para solución,2025-02-19,Satisfecho,4
+RCL0078,Santiago Ruiz,Cloro,No hace el efecto esperado,2025-04-01,Pendiente,Manuela Pineda,Estamos gestionando una compensación,2025-04-04,Insatisfecho,2
+RCL0079,Carlos López,Suavizante,Tuvo un olor desagradable,2025-04-02,Pendiente,Pedro Romero,Contactamos al cliente para solución,2025-04-06,Satisfecho,4
+RCL0080,Jorge Ramírez,Toallas húmedas,Presentó fugas al primer uso,2025-03-18,En proceso,Lucía Peña,Fue solucionado con una nueva entrega,2025-03-27,Satisfecho,4
+RCL0081,Camila Morales,Cloro,Presentó fugas al primer uso,2025-04-15,Resuelto,Sebastián Cárdenas,El producto será recogido para revisión,2025-04-24,Neutral,3
+RCL0082,Valentina Mendoza,Toallas húmedas,No hace el efecto esperado,2025-04-06,En proceso,Esteban Díaz,Estamos revisando con el proveedor,2025-04-11,Satisfecho,4
+RCL0083,Juan Pérez,Cepillo de baño,Vino abierto o sin sello,2025-03-10,Pendiente,Esteban Díaz,El producto será recogido para revisión,2025-03-17,Muy insatisfecho,1
+RCL0084,Diana Torres,Detergente líquido,Vino abierto o sin sello,2025-04-02,Pendiente,Sebastián Cárdenas,Solicitamos más información al cliente,2025-04-06,Muy insatisfecho,1
+RCL0085,Fernando Rojas,Shampoo,Presentó fugas al primer uso,2025-03-25,Cerrado,Ana Sánchez,Estamos gestionando una compensación,2025-03-29,Neutral,3
+RCL0086,Carlos López,Detergente líquido,El empaque llegó roto,2025-03-08,Pendiente,Mateo Quintero,Procedimos con el reembolso completo,2025-03-17,Insatisfecho,2
+RCL0087,Natalia Jiménez,Papel higiénico,No cumplió con mis expectativas,2025-03-30,Pendiente,Daniel Ortega,Estamos gestionando una compensación,2025-04-02,Muy satisfecho,5
+RCL0088,Carlos López,Toallas húmedas,La presentación no es la adecuada,2025-03-25,En proceso,Lucía Peña,El reclamo fue escalado al área de calidad,2025-04-01,Satisfecho,4
+RCL0089,Carlos López,Toallas húmedas,No hace el efecto esperado,2025-04-19,Resuelto,Carolina Vélez,Fue solucionado con una nueva entrega,2025-04-21,Muy satisfecho,5
+RCL0090,Andrés Gómez,Suavizante,Tuvo un olor desagradable,2025-02-24,Resuelto,Mateo Quintero,Procedimos con el reembolso completo,2025-02-27,Neutral,3
+RCL0091,Diana Torres,Papel higiénico,No funcionó correctamente,2025-02-13,Resuelto,Manuela Pineda,Estamos gestionando una compensación,2025-02-22,Neutral,3
+RCL0092,Andrés Gómez,Limpiavidrios,No cumplió con mis expectativas,2025-03-09,Resuelto,Ana Sánchez,Contactamos al cliente para solución,2025-03-15,Neutral,3
+RCL0093,Paola Castro,Jabón antibacterial,Tuvo un olor desagradable,2025-03-13,En proceso,Sebastián Cárdenas,Fue solucionado con una nueva entrega,2025-03-16,Insatisfecho,2
+RCL0094,Andrés Gómez,Limpiavidrios,No hace el efecto esperado,2025-02-20,Cerrado,Esteban Díaz,El producto será recogido para revisión,2025-02-21,Muy satisfecho,5
+RCL0095,Valentina Mendoza,Papel higiénico,Vino abierto o sin sello,2025-02-17,En proceso,Sebastián Cárdenas,Estamos revisando con el proveedor,2025-02-22,Neutral,3
+RCL0096,María Rodríguez,Papel higiénico,Presentó fugas al primer uso,2025-02-13,En proceso,Juliana Salazar,Fue solucionado con una nueva entrega,2025-02-22,Insatisfecho,2
+RCL0097,Natalia Jiménez,Detergente líquido,No cumplió con mis expectativas,2025-02-13,Pendiente,Juliana Salazar,Estamos gestionando una compensación,2025-02-21,Muy insatisfecho,1
+RCL0098,Santiago Ruiz,Jabón antibacterial,Presentó fugas al primer uso,2025-03-12,En proceso,Manuela Pineda,El producto será recogido para revisión,2025-03-19,Muy insatisfecho,1
+RCL0099,Juan Pérez,Cloro,El empaque llegó roto,2025-04-09,Cerrado,Daniel Ortega,Estamos gestionando una compensación,2025-04-16,Neutral,3
+RCL0100,Jorge Ramírez,Desinfectante,El empaque llegó roto,2025-04-28,Pendiente,Manuela Pineda,Procedimos con el reembolso completo,2025-04-29,Muy insatisfecho,1
+RCL0101,Santiago Ruiz,Jabón antibacterial,Tuvo un olor desagradable,2025-02-23,Resuelto,Daniel Ortega,Solicitamos más información al cliente,2025-03-03,Neutral,3
+RCL0102,María Rodríguez,Desinfectante,No hace el efecto esperado,2025-04-08,Pendiente,Ana Sánchez,Estamos gestionando una compensación,2025-04-18,Muy insatisfecho,1
+RCL0103,Luis Herrera,Cloro,Tuvo un olor desagradable,2025-03-02,En proceso,Pedro Romero,El caso fue cerrado por falta de respuesta,2025-03-05,Neutral,3
+RCL0104,Natalia Jiménez,Shampoo,No funcionó correctamente,2025-03-22,Cerrado,Mateo Quintero,El reclamo fue escalado al área de calidad,2025-03-31,Neutral,3
+RCL0105,Carlos López,Cloro,El empaque llegó roto,2025-04-14,En proceso,Lucía Peña,Procedimos con el reembolso completo,2025-04-21,Muy insatisfecho,1
+RCL0106,Natalia Jiménez,Shampoo,No funcionó correctamente,2025-05-09,Cerrado,Lucía Peña,Contactamos al cliente para solución,2025-05-18,Muy satisfecho,5
+RCL0107,Laura Martínez,Desinfectante,La presentación no es la adecuada,2025-02-28,Cerrado,Sebastián Cárdenas,Estamos gestionando una compensación,2025-03-03,Neutral,3
+RCL0108,Carlos López,Toallas húmedas,El producto llegó en mal estado,2025-02-18,Pendiente,Sebastián Cárdenas,Fue solucionado con una nueva entrega,2025-02-26,Satisfecho,4
+RCL0109,Laura Martínez,Detergente líquido,No corresponde con la descripción,2025-02-23,En proceso,Pedro Romero,Procedimos con el reembolso completo,2025-03-05,Muy insatisfecho,1
+RCL0110,Fernando Rojas,Papel higiénico,El producto llegó en mal estado,2025-03-01,Pendiente,Manuela Pineda,Hemos enviado un reemplazo sin costo,2025-03-04,Muy insatisfecho,1
+RCL0111,María Rodríguez,Detergente líquido,No funcionó correctamente,2025-02-10,Resuelto,Pedro Romero,El producto será recogido para revisión,2025-02-11,Muy satisfecho,5
+RCL0112,Camila Morales,Shampoo,No funcionó correctamente,2025-04-19,Cerrado,Manuela Pineda,Estamos revisando con el proveedor,2025-04-29,Muy insatisfecho,1
+RCL0113,Andrés Gómez,Desinfectante,No cumplió con mis expectativas,2025-04-06,En proceso,Sebastián Cárdenas,Solicitamos más información al cliente,2025-04-16,Neutral,3
+RCL0114,Carlos López,Cepillo de baño,Presentó fugas al primer uso,2025-03-24,Cerrado,Lucía Peña,El producto será recogido para revisión,2025-04-01,Satisfecho,4
+RCL0115,Valentina Mendoza,Desinfectante,No funcionó correctamente,2025-03-30,Cerrado,Sebastián Cárdenas,El reclamo fue escalado al área de calidad,2025-04-04,Muy insatisfecho,1
+RCL0116,Andrés Gómez,Limpiavidrios,El empaque llegó roto,2025-04-26,Cerrado,Lucía Peña,Solicitamos más información al cliente,2025-04-29,Insatisfecho,2
+RCL0117,Diana Torres,Toallas húmedas,No hace el efecto esperado,2025-03-21,Resuelto,Juliana Salazar,Estamos revisando con el proveedor,2025-03-22,Muy satisfecho,5
+RCL0118,Camila Morales,Shampoo,La presentación no es la adecuada,2025-05-06,Pendiente,Sebastián Cárdenas,Procedimos con el reembolso completo,2025-05-10,Satisfecho,4
+RCL0119,Camila Morales,Limpiavidrios,No hace el efecto esperado,2025-03-04,Pendiente,Esteban Díaz,Contactamos al cliente para solución,2025-03-12,Satisfecho,4
+RCL0120,Natalia Jiménez,Shampoo,El producto llegó en mal estado,2025-02-23,Resuelto,Carolina Vélez,Procedimos con el reembolso completo,2025-02-26,Muy insatisfecho,1
+RCL0121,Diana Torres,Suavizante,Tuvo un olor desagradable,2025-02-15,Cerrado,Mateo Quintero,Estamos gestionando una compensación,2025-02-23,Insatisfecho,2
+RCL0122,Alejandro Vargas,Suavizante,La presentación no es la adecuada,2025-04-25,En proceso,Lucía Peña,Hemos enviado un reemplazo sin costo,2025-04-28,Insatisfecho,2
+RCL0123,Camila Morales,Limpiavidrios,No cumplió con mis expectativas,2025-04-17,Cerrado,Lucía Peña,Hemos enviado un reemplazo sin costo,2025-04-23,Neutral,3
+RCL0124,Fernando Rojas,Desinfectante,No corresponde con la descripción,2025-02-28,Pendiente,Esteban Díaz,El caso fue cerrado por falta de respuesta,2025-03-08,Insatisfecho,2
+RCL0125,Santiago Ruiz,Toallas húmedas,El producto llegó en mal estado,2025-04-30,Pendiente,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-05-05,Insatisfecho,2
+RCL0126,Juan Pérez,Toallas húmedas,El producto llegó en mal estado,2025-04-08,Resuelto,Mateo Quintero,El reclamo fue escalado al área de calidad,2025-04-11,Muy insatisfecho,1
+RCL0127,Andrés Gómez,Cepillo de baño,No hace el efecto esperado,2025-04-18,Resuelto,Mateo Quintero,Contactamos al cliente para solución,2025-04-26,Insatisfecho,2
+RCL0128,Alejandro Vargas,Limpiavidrios,No cumplió con mis expectativas,2025-03-05,Pendiente,Juliana Salazar,Procedimos con el reembolso completo,2025-03-11,Insatisfecho,2
+RCL0129,Valentina Mendoza,Cepillo de baño,No hace el efecto esperado,2025-02-25,Pendiente,Daniel Ortega,El reclamo fue escalado al área de calidad,2025-03-05,Satisfecho,4
+RCL0130,Camila Morales,Cloro,El empaque llegó roto,2025-05-07,En proceso,Manuela Pineda,Fue solucionado con una nueva entrega,2025-05-13,Muy insatisfecho,1
+RCL0131,Paola Castro,Cloro,Vino abierto o sin sello,2025-02-28,En proceso,Sebastián Cárdenas,Procedimos con el reembolso completo,2025-03-06,Insatisfecho,2
+RCL0132,Fernando Rojas,Suavizante,Tuvo un olor desagradable,2025-03-25,En proceso,Juliana Salazar,Procedimos con el reembolso completo,2025-04-04,Muy satisfecho,5
+RCL0133,María Rodríguez,Shampoo,El producto llegó en mal estado,2025-03-13,Cerrado,Esteban Díaz,Hemos enviado un reemplazo sin costo,2025-03-18,Muy satisfecho,5
+RCL0134,Fernando Rojas,Cepillo de baño,Tuvo un olor desagradable,2025-04-04,En proceso,Ana Sánchez,El producto será recogido para revisión,2025-04-13,Neutral,3
+RCL0135,Fernando Rojas,Cloro,El empaque llegó roto,2025-03-04,En proceso,Lucía Peña,Estamos revisando con el proveedor,2025-03-08,Satisfecho,4
+RCL0136,Santiago Ruiz,Jabón antibacterial,No hace el efecto esperado,2025-04-21,Cerrado,Pedro Romero,Procedimos con el reembolso completo,2025-04-28,Neutral,3
+RCL0137,Alejandro Vargas,Cepillo de baño,No funcionó correctamente,2025-03-20,Pendiente,Sebastián Cárdenas,Procedimos con el reembolso completo,2025-03-22,Muy satisfecho,5
+RCL0138,Luis Herrera,Limpiavidrios,No hace el efecto esperado,2025-05-11,Cerrado,Juliana Salazar,Estamos gestionando una compensación,2025-05-13,Muy insatisfecho,1
+RCL0139,Natalia Jiménez,Papel higiénico,El empaque llegó roto,2025-04-22,Pendiente,Mateo Quintero,Estamos gestionando una compensación,2025-04-25,Neutral,3
+RCL0140,Alejandro Vargas,Limpiavidrios,El producto llegó en mal estado,2025-04-08,Pendiente,Mateo Quintero,Estamos gestionando una compensación,2025-04-14,Muy satisfecho,5
+RCL0141,Fernando Rojas,Cloro,Vino abierto o sin sello,2025-04-16,Resuelto,Esteban Díaz,Procedimos con el reembolso completo,2025-04-24,Insatisfecho,2
+RCL0142,Paola Castro,Suavizante,No hace el efecto esperado,2025-03-02,En proceso,Pedro Romero,Estamos gestionando una compensación,2025-03-04,Satisfecho,4
+RCL0143,Valentina Mendoza,Shampoo,No cumplió con mis expectativas,2025-03-12,En proceso,Pedro Romero,Solicitamos más información al cliente,2025-03-20,Neutral,3
+RCL0144,Alejandro Vargas,Papel higiénico,No funcionó correctamente,2025-04-24,Resuelto,Juliana Salazar,El reclamo fue escalado al área de calidad,2025-05-04,Muy insatisfecho,1
+RCL0145,Santiago Ruiz,Cloro,No funcionó correctamente,2025-02-24,Cerrado,Sebastián Cárdenas,El reclamo fue escalado al área de calidad,2025-03-04,Neutral,3
+RCL0146,Andrés Gómez,Limpiavidrios,No corresponde con la descripción,2025-04-12,Pendiente,Juliana Salazar,El producto será recogido para revisión,2025-04-17,Neutral,3
+RCL0147,Santiago Ruiz,Limpiavidrios,Vino abierto o sin sello,2025-02-11,En proceso,Juliana Salazar,El reclamo fue escalado al área de calidad,2025-02-13,Muy satisfecho,5
+RCL0148,Camila Morales,Detergente líquido,Tuvo un olor desagradable,2025-03-07,Pendiente,Ana Sánchez,El caso fue cerrado por falta de respuesta,2025-03-12,Neutral,3
+RCL0149,Paola Castro,Cepillo de baño,No funcionó correctamente,2025-02-24,Cerrado,Esteban Díaz,Fue solucionado con una nueva entrega,2025-03-04,Muy insatisfecho,1
+RCL0150,Carlos López,Jabón antibacterial,La presentación no es la adecuada,2025-03-07,Pendiente,Mateo Quintero,El producto será recogido para revisión,2025-03-16,Neutral,3
+RCL0151,Carlos López,Cepillo de baño,La presentación no es la adecuada,2025-04-01,Resuelto,Sebastián Cárdenas,Procedimos con el reembolso completo,2025-04-04,Insatisfecho,2
+RCL0152,María Rodríguez,Limpiavidrios,El empaque llegó roto,2025-04-28,Pendiente,Esteban Díaz,Contactamos al cliente para solución,2025-05-02,Muy insatisfecho,1
+RCL0153,Fernando Rojas,Cloro,No funcionó correctamente,2025-03-06,Cerrado,Daniel Ortega,Solicitamos más información al cliente,2025-03-10,Muy satisfecho,5
+RCL0154,Luis Herrera,Toallas húmedas,Tuvo un olor desagradable,2025-03-14,Resuelto,Sebastián Cárdenas,Estamos revisando con el proveedor,2025-03-21,Muy satisfecho,5
+RCL0155,Andrés Gómez,Papel higiénico,No cumplió con mis expectativas,2025-02-17,En proceso,Mateo Quintero,Contactamos al cliente para solución,2025-02-26,Neutral,3
+RCL0156,Jorge Ramírez,Papel higiénico,Presentó fugas al primer uso,2025-02-28,Pendiente,Daniel Ortega,Procedimos con el reembolso completo,2025-03-10,Insatisfecho,2
+RCL0157,Natalia Jiménez,Jabón antibacterial,No funcionó correctamente,2025-03-18,En proceso,Lucía Peña,Contactamos al cliente para solución,2025-03-23,Neutral,3
+RCL0158,Luis Herrera,Shampoo,Tuvo un olor desagradable,2025-04-17,Resuelto,Juliana Salazar,El reclamo fue escalado al área de calidad,2025-04-25,Insatisfecho,2
+RCL0159,Natalia Jiménez,Jabón antibacterial,Vino abierto o sin sello,2025-03-07,En proceso,Mateo Quintero,Estamos gestionando una compensación,2025-03-15,Muy insatisfecho,1
+RCL0160,Valentina Mendoza,Detergente líquido,Presentó fugas al primer uso,2025-05-04,Resuelto,Carolina Vélez,Solicitamos más información al cliente,2025-05-07,Neutral,3
+RCL0161,Luis Herrera,Cloro,La presentación no es la adecuada,2025-04-08,Cerrado,Sebastián Cárdenas,Hemos enviado un reemplazo sin costo,2025-04-11,Muy insatisfecho,1
+RCL0162,Paola Castro,Limpiavidrios,Tuvo un olor desagradable,2025-03-24,Resuelto,Carolina Vélez,Solicitamos más información al cliente,2025-04-03,Neutral,3
+RCL0163,Carlos López,Detergente líquido,No hace el efecto esperado,2025-03-14,Pendiente,Mateo Quintero,Fue solucionado con una nueva entrega,2025-03-19,Muy insatisfecho,1
+RCL0164,Andrés Gómez,Toallas húmedas,El producto llegó en mal estado,2025-04-10,Resuelto,Carolina Vélez,Procedimos con el reembolso completo,2025-04-14,Insatisfecho,2
+RCL0165,Paola Castro,Suavizante,El producto llegó en mal estado,2025-03-14,En proceso,Daniel Ortega,El reclamo fue escalado al área de calidad,2025-03-22,Neutral,3
+RCL0166,Diana Torres,Desinfectante,No funcionó correctamente,2025-02-15,Cerrado,Sebastián Cárdenas,Estamos revisando con el proveedor,2025-02-16,Insatisfecho,2
+RCL0167,Andrés Gómez,Suavizante,El producto llegó en mal estado,2025-02-19,Cerrado,Ana Sánchez,Fue solucionado con una nueva entrega,2025-02-24,Satisfecho,4
+RCL0168,Diana Torres,Toallas húmedas,El producto llegó en mal estado,2025-04-10,Pendiente,Mateo Quintero,Fue solucionado con una nueva entrega,2025-04-16,Muy insatisfecho,1
+RCL0169,María Rodríguez,Detergente líquido,La presentación no es la adecuada,2025-04-18,Resuelto,Pedro Romero,El caso fue cerrado por falta de respuesta,2025-04-26,Insatisfecho,2
+RCL0170,Valentina Mendoza,Toallas húmedas,No hace el efecto esperado,2025-02-16,Cerrado,Mateo Quintero,El producto será recogido para revisión,2025-02-18,Satisfecho,4
+RCL0171,Diana Torres,Cepillo de baño,Vino abierto o sin sello,2025-03-31,Cerrado,Daniel Ortega,El reclamo fue escalado al área de calidad,2025-04-03,Muy satisfecho,5
+RCL0172,Santiago Ruiz,Suavizante,No funcionó correctamente,2025-04-15,Pendiente,Mateo Quintero,Estamos revisando con el proveedor,2025-04-25,Muy satisfecho,5
+RCL0173,Jorge Ramírez,Jabón antibacterial,Tuvo un olor desagradable,2025-04-26,Pendiente,Pedro Romero,Estamos gestionando una compensación,2025-04-27,Muy insatisfecho,1
+RCL0174,Camila Morales,Jabón antibacterial,No cumplió con mis expectativas,2025-05-01,Resuelto,Pedro Romero,Contactamos al cliente para solución,2025-05-04,Muy insatisfecho,1
+RCL0175,Natalia Jiménez,Limpiavidrios,El empaque llegó roto,2025-04-18,Cerrado,Mateo Quintero,Hemos enviado un reemplazo sin costo,2025-04-22,Muy satisfecho,5
+RCL0176,Juan Pérez,Jabón antibacterial,No funcionó correctamente,2025-03-25,Cerrado,Mateo Quintero,Hemos enviado un reemplazo sin costo,2025-04-01,Muy insatisfecho,1
+RCL0177,Jorge Ramírez,Suavizante,No corresponde con la descripción,2025-04-01,Cerrado,Lucía Peña,Estamos revisando con el proveedor,2025-04-07,Satisfecho,4
+RCL0178,Andrés Gómez,Papel higiénico,La presentación no es la adecuada,2025-04-16,En proceso,Ana Sánchez,Fue solucionado con una nueva entrega,2025-04-18,Muy satisfecho,5
+RCL0179,Carlos López,Jabón antibacterial,El producto llegó en mal estado,2025-04-05,Cerrado,Carolina Vélez,Estamos revisando con el proveedor,2025-04-06,Insatisfecho,2
+RCL0180,Jorge Ramírez,Suavizante,Tuvo un olor desagradable,2025-05-04,Pendiente,Carolina Vélez,Hemos enviado un reemplazo sin costo,2025-05-08,Muy insatisfecho,1
+RCL0181,Natalia Jiménez,Toallas húmedas,No cumplió con mis expectativas,2025-04-22,En proceso,Sebastián Cárdenas,Solicitamos más información al cliente,2025-05-01,Muy insatisfecho,1
+RCL0182,Paola Castro,Detergente líquido,No funcionó correctamente,2025-05-11,Resuelto,Juliana Salazar,Contactamos al cliente para solución,2025-05-15,Neutral,3
+RCL0183,Jorge Ramírez,Suavizante,El producto llegó en mal estado,2025-04-02,En proceso,Daniel Ortega,Procedimos con el reembolso completo,2025-04-08,Muy insatisfecho,1
+RCL0184,Alejandro Vargas,Suavizante,Presentó fugas al primer uso,2025-03-17,Resuelto,Juliana Salazar,El caso fue cerrado por falta de respuesta,2025-03-27,Muy insatisfecho,1
+RCL0185,Fernando Rojas,Papel higiénico,No cumplió con mis expectativas,2025-02-24,En proceso,Daniel Ortega,Procedimos con el reembolso completo,2025-03-03,Neutral,3
+RCL0186,Carlos López,Shampoo,Presentó fugas al primer uso,2025-03-01,Cerrado,Ana Sánchez,Procedimos con el reembolso completo,2025-03-04,Satisfecho,4
+RCL0187,Santiago Ruiz,Cloro,Tuvo un olor desagradable,2025-05-04,Resuelto,Pedro Romero,Estamos revisando con el proveedor,2025-05-05,Neutral,3
+RCL0188,Camila Morales,Shampoo,El producto llegó en mal estado,2025-02-25,En proceso,Esteban Díaz,Fue solucionado con una nueva entrega,2025-03-01,Muy insatisfecho,1
+RCL0189,Diana Torres,Detergente líquido,El producto llegó en mal estado,2025-02-17,En proceso,Esteban Díaz,Estamos gestionando una compensación,2025-02-22,Muy satisfecho,5
+RCL0190,Alejandro Vargas,Suavizante,No corresponde con la descripción,2025-04-19,Cerrado,Lucía Peña,Estamos revisando con el proveedor,2025-04-27,Neutral,3
+RCL0191,Juan Pérez,Limpiavidrios,El empaque llegó roto,2025-02-17,Cerrado,Pedro Romero,Hemos enviado un reemplazo sin costo,2025-02-21,Neutral,3
+RCL0192,Paola Castro,Desinfectante,El producto llegó en mal estado,2025-04-21,En proceso,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-04-28,Satisfecho,4
+RCL0193,Diana Torres,Shampoo,La presentación no es la adecuada,2025-03-22,En proceso,Ana Sánchez,El producto será recogido para revisión,2025-03-30,Muy satisfecho,5
+RCL0194,Andrés Gómez,Suavizante,No corresponde con la descripción,2025-02-12,Cerrado,Ana Sánchez,Procedimos con el reembolso completo,2025-02-19,Muy insatisfecho,1
+RCL0195,Paola Castro,Toallas húmedas,No corresponde con la descripción,2025-02-24,Resuelto,Lucía Peña,Hemos enviado un reemplazo sin costo,2025-03-02,Muy insatisfecho,1
+RCL0196,Alejandro Vargas,Shampoo,No cumplió con mis expectativas,2025-05-04,Pendiente,Carolina Vélez,Estamos revisando con el proveedor,2025-05-08,Satisfecho,4
+RCL0197,Paola Castro,Limpiavidrios,Vino abierto o sin sello,2025-03-16,En proceso,Sebastián Cárdenas,El reclamo fue escalado al área de calidad,2025-03-22,Neutral,3
+RCL0198,María Rodríguez,Cloro,No corresponde con la descripción,2025-03-09,En proceso,Pedro Romero,Hemos enviado un reemplazo sin costo,2025-03-17,Insatisfecho,2
+RCL0199,Fernando Rojas,Toallas húmedas,Tuvo un olor desagradable,2025-03-03,En proceso,Manuela Pineda,Fue solucionado con una nueva entrega,2025-03-07,Muy satisfecho,5
+RCL0200,Valentina Mendoza,Shampoo,La presentación no es la adecuada,2025-03-16,Pendiente,Carolina Vélez,El producto será recogido para revisión,2025-03-20,Neutral,3
+RCL0201,Andrés Gómez,Limpiavidrios,Presentó fugas al primer uso,2025-05-09,Pendiente,Ana Sánchez,El caso fue cerrado por falta de respuesta,2025-05-13,Muy satisfecho,5
+RCL0202,Laura Martínez,Limpiavidrios,Tuvo un olor desagradable,2025-03-15,En proceso,Pedro Romero,Procedimos con el reembolso completo,2025-03-23,Muy insatisfecho,1
+RCL0203,Laura Martínez,Cloro,Tuvo un olor desagradable,2025-02-28,Pendiente,Carolina Vélez,Hemos enviado un reemplazo sin costo,2025-03-05,Muy satisfecho,5
+RCL0204,Valentina Mendoza,Cepillo de baño,No funcionó correctamente,2025-04-11,Resuelto,Manuela Pineda,Solicitamos más información al cliente,2025-04-18,Insatisfecho,2
+RCL0205,Alejandro Vargas,Shampoo,No corresponde con la descripción,2025-02-24,Pendiente,Pedro Romero,Contactamos al cliente para solución,2025-03-06,Satisfecho,4
+RCL0206,Valentina Mendoza,Suavizante,Tuvo un olor desagradable,2025-04-22,Resuelto,Mateo Quintero,Solicitamos más información al cliente,2025-05-02,Satisfecho,4
+RCL0207,Camila Morales,Shampoo,No hace el efecto esperado,2025-05-05,Pendiente,Ana Sánchez,Contactamos al cliente para solución,2025-05-06,Muy satisfecho,5
+RCL0208,Carlos López,Limpiavidrios,Tuvo un olor desagradable,2025-02-25,En proceso,Mateo Quintero,Procedimos con el reembolso completo,2025-03-06,Muy insatisfecho,1
+RCL0209,Diana Torres,Detergente líquido,No corresponde con la descripción,2025-03-06,Resuelto,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-03-08,Neutral,3
+RCL0210,Fernando Rojas,Desinfectante,La presentación no es la adecuada,2025-04-14,Resuelto,Pedro Romero,Fue solucionado con una nueva entrega,2025-04-18,Muy satisfecho,5
+RCL0211,Diana Torres,Suavizante,Vino abierto o sin sello,2025-02-16,Resuelto,Esteban Díaz,Solicitamos más información al cliente,2025-02-18,Muy insatisfecho,1
+RCL0212,Valentina Mendoza,Jabón antibacterial,No funcionó correctamente,2025-03-31,En proceso,Manuela Pineda,Estamos gestionando una compensación,2025-04-03,Insatisfecho,2
+RCL0213,Laura Martínez,Detergente líquido,No hace el efecto esperado,2025-04-11,Cerrado,Pedro Romero,Hemos enviado un reemplazo sin costo,2025-04-17,Insatisfecho,2
+RCL0214,Andrés Gómez,Suavizante,No hace el efecto esperado,2025-03-21,En proceso,Pedro Romero,Procedimos con el reembolso completo,2025-03-31,Muy insatisfecho,1
+RCL0215,Valentina Mendoza,Suavizante,No cumplió con mis expectativas,2025-04-29,Cerrado,Esteban Díaz,Solicitamos más información al cliente,2025-04-30,Muy satisfecho,5
+RCL0216,Natalia Jiménez,Limpiavidrios,No hace el efecto esperado,2025-04-19,Cerrado,Pedro Romero,Estamos gestionando una compensación,2025-04-26,Neutral,3
+RCL0217,Andrés Gómez,Suavizante,La presentación no es la adecuada,2025-02-25,Cerrado,Sebastián Cárdenas,Estamos gestionando una compensación,2025-03-01,Satisfecho,4
+RCL0218,Luis Herrera,Toallas húmedas,No cumplió con mis expectativas,2025-05-10,En proceso,Mateo Quintero,Estamos gestionando una compensación,2025-05-12,Muy insatisfecho,1
+RCL0219,Natalia Jiménez,Jabón antibacterial,Tuvo un olor desagradable,2025-02-13,Pendiente,Carolina Vélez,El caso fue cerrado por falta de respuesta,2025-02-21,Neutral,3
+RCL0220,Luis Herrera,Cepillo de baño,El producto llegó en mal estado,2025-02-22,Cerrado,Carolina Vélez,Estamos gestionando una compensación,2025-03-03,Muy insatisfecho,1
+RCL0221,Luis Herrera,Papel higiénico,El producto llegó en mal estado,2025-04-27,Pendiente,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-04-29,Insatisfecho,2
+RCL0222,Camila Morales,Jabón antibacterial,El producto llegó en mal estado,2025-02-11,Pendiente,Carolina Vélez,El caso fue cerrado por falta de respuesta,2025-02-15,Muy satisfecho,5
+RCL0223,Luis Herrera,Cloro,Tuvo un olor desagradable,2025-03-16,Pendiente,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-03-17,Muy satisfecho,5
+RCL0224,María Rodríguez,Cepillo de baño,No funcionó correctamente,2025-04-23,Pendiente,Esteban Díaz,Estamos gestionando una compensación,2025-04-24,Neutral,3
+RCL0225,Valentina Mendoza,Papel higiénico,Presentó fugas al primer uso,2025-03-26,Resuelto,Lucía Peña,Solicitamos más información al cliente,2025-04-05,Insatisfecho,2
+RCL0226,Fernando Rojas,Shampoo,La presentación no es la adecuada,2025-02-15,Resuelto,Carolina Vélez,El reclamo fue escalado al área de calidad,2025-02-19,Muy satisfecho,5
+RCL0227,Diana Torres,Detergente líquido,Vino abierto o sin sello,2025-05-05,En proceso,Esteban Díaz,El producto será recogido para revisión,2025-05-08,Neutral,3
+RCL0228,Santiago Ruiz,Detergente líquido,Vino abierto o sin sello,2025-05-03,Resuelto,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-05-07,Muy satisfecho,5
+RCL0229,Juan Pérez,Desinfectante,No funcionó correctamente,2025-02-23,Resuelto,Lucía Peña,El reclamo fue escalado al área de calidad,2025-03-05,Muy satisfecho,5
+RCL0230,Alejandro Vargas,Detergente líquido,Vino abierto o sin sello,2025-03-16,En proceso,Esteban Díaz,Procedimos con el reembolso completo,2025-03-26,Muy satisfecho,5
+RCL0231,María Rodríguez,Shampoo,No corresponde con la descripción,2025-03-29,Cerrado,Pedro Romero,Procedimos con el reembolso completo,2025-04-07,Muy insatisfecho,1
+RCL0232,María Rodríguez,Shampoo,El producto llegó en mal estado,2025-04-10,Pendiente,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-04-17,Muy insatisfecho,1
+RCL0233,Paola Castro,Jabón antibacterial,No hace el efecto esperado,2025-03-04,En proceso,Pedro Romero,Procedimos con el reembolso completo,2025-03-06,Muy satisfecho,5
+RCL0234,Andrés Gómez,Jabón antibacterial,Tuvo un olor desagradable,2025-03-01,Resuelto,Daniel Ortega,Hemos enviado un reemplazo sin costo,2025-03-07,Muy insatisfecho,1
+RCL0235,Laura Martínez,Jabón antibacterial,Tuvo un olor desagradable,2025-03-27,Resuelto,Daniel Ortega,Hemos enviado un reemplazo sin costo,2025-04-01,Muy insatisfecho,1
+RCL0236,Alejandro Vargas,Shampoo,El empaque llegó roto,2025-04-03,En proceso,Carolina Vélez,El caso fue cerrado por falta de respuesta,2025-04-05,Insatisfecho,2
+RCL0237,Natalia Jiménez,Shampoo,Tuvo un olor desagradable,2025-02-22,En proceso,Daniel Ortega,Estamos revisando con el proveedor,2025-03-01,Muy satisfecho,5
+RCL0238,Santiago Ruiz,Toallas húmedas,El producto llegó en mal estado,2025-04-24,Pendiente,Carolina Vélez,El caso fue cerrado por falta de respuesta,2025-04-26,Satisfecho,4
+RCL0239,Valentina Mendoza,Toallas húmedas,Tuvo un olor desagradable,2025-03-29,Cerrado,Mateo Quintero,Estamos gestionando una compensación,2025-04-05,Muy insatisfecho,1
+RCL0240,Alejandro Vargas,Shampoo,No corresponde con la descripción,2025-02-21,En proceso,Carolina Vélez,Contactamos al cliente para solución,2025-02-28,Muy insatisfecho,1
+RCL0241,Jorge Ramírez,Detergente líquido,Presentó fugas al primer uso,2025-03-05,Resuelto,Carolina Vélez,Hemos enviado un reemplazo sin costo,2025-03-14,Muy satisfecho,5
+RCL0242,Jorge Ramírez,Shampoo,Tuvo un olor desagradable,2025-03-10,Pendiente,Esteban Díaz,El caso fue cerrado por falta de respuesta,2025-03-14,Satisfecho,4
+RCL0243,Valentina Mendoza,Shampoo,La presentación no es la adecuada,2025-03-03,En proceso,Esteban Díaz,El producto será recogido para revisión,2025-03-11,Muy insatisfecho,1
+RCL0244,Alejandro Vargas,Desinfectante,No hace el efecto esperado,2025-03-01,Resuelto,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-03-08,Neutral,3
+RCL0245,Alejandro Vargas,Papel higiénico,No hace el efecto esperado,2025-05-11,Resuelto,Daniel Ortega,Contactamos al cliente para solución,2025-05-21,Satisfecho,4
+RCL0246,Laura Martínez,Detergente líquido,No cumplió con mis expectativas,2025-05-09,Cerrado,Manuela Pineda,Hemos enviado un reemplazo sin costo,2025-05-16,Satisfecho,4
+RCL0247,Santiago Ruiz,Cloro,Tuvo un olor desagradable,2025-03-18,Pendiente,Esteban Díaz,El producto será recogido para revisión,2025-03-28,Muy insatisfecho,1
+RCL0248,Santiago Ruiz,Detergente líquido,No cumplió con mis expectativas,2025-05-08,Cerrado,Lucía Peña,Solicitamos más información al cliente,2025-05-12,Muy satisfecho,5
+RCL0249,Andrés Gómez,Cepillo de baño,Tuvo un olor desagradable,2025-05-05,Pendiente,Juliana Salazar,Contactamos al cliente para solución,2025-05-14,Neutral,3
+RCL0250,Laura Martínez,Cloro,La presentación no es la adecuada,2025-02-14,Pendiente,Daniel Ortega,Estamos gestionando una compensación,2025-02-24,Neutral,3
+RCL0251,Jorge Ramírez,Jabón antibacterial,Tuvo un olor desagradable,2025-03-19,Pendiente,Manuela Pineda,El producto será recogido para revisión,2025-03-23,Satisfecho,4
+RCL0252,Juan Pérez,Jabón antibacterial,Tuvo un olor desagradable,2025-04-22,Cerrado,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-05-01,Satisfecho,4
+RCL0253,María Rodríguez,Suavizante,El producto llegó en mal estado,2025-05-04,Cerrado,Lucía Peña,Contactamos al cliente para solución,2025-05-14,Muy satisfecho,5
+RCL0254,Jorge Ramírez,Shampoo,Tuvo un olor desagradable,2025-03-26,Resuelto,Lucía Peña,Estamos revisando con el proveedor,2025-04-04,Neutral,3
+RCL0255,Camila Morales,Detergente líquido,El producto llegó en mal estado,2025-04-28,En proceso,Carolina Vélez,Contactamos al cliente para solución,2025-04-30,Muy insatisfecho,1
+RCL0256,María Rodríguez,Shampoo,No corresponde con la descripción,2025-05-07,Pendiente,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-05-17,Muy satisfecho,5
+RCL0257,Paola Castro,Toallas húmedas,No hace el efecto esperado,2025-03-02,Resuelto,Ana Sánchez,Fue solucionado con una nueva entrega,2025-03-09,Insatisfecho,2
+RCL0258,Santiago Ruiz,Detergente líquido,Presentó fugas al primer uso,2025-04-03,Resuelto,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-04-08,Satisfecho,4
+RCL0259,Paola Castro,Detergente líquido,La presentación no es la adecuada,2025-02-12,Cerrado,Carolina Vélez,El producto será recogido para revisión,2025-02-19,Muy insatisfecho,1
+RCL0260,Valentina Mendoza,Cloro,No hace el efecto esperado,2025-05-04,Resuelto,Carolina Vélez,El caso fue cerrado por falta de respuesta,2025-05-09,Satisfecho,4
+RCL0261,María Rodríguez,Suavizante,Vino abierto o sin sello,2025-03-08,Cerrado,Ana Sánchez,Estamos gestionando una compensación,2025-03-15,Muy insatisfecho,1
+RCL0262,Juan Pérez,Limpiavidrios,Presentó fugas al primer uso,2025-04-19,Pendiente,Lucía Peña,Estamos revisando con el proveedor,2025-04-24,Muy satisfecho,5
+RCL0263,Valentina Mendoza,Jabón antibacterial,Presentó fugas al primer uso,2025-03-27,Resuelto,Sebastián Cárdenas,Estamos revisando con el proveedor,2025-04-05,Insatisfecho,2
+RCL0264,Laura Martínez,Shampoo,Vino abierto o sin sello,2025-03-20,Pendiente,Carolina Vélez,Hemos enviado un reemplazo sin costo,2025-03-27,Neutral,3
+RCL0265,Valentina Mendoza,Limpiavidrios,Vino abierto o sin sello,2025-03-06,Cerrado,Ana Sánchez,Estamos revisando con el proveedor,2025-03-11,Muy insatisfecho,1
+RCL0266,Valentina Mendoza,Toallas húmedas,El producto llegó en mal estado,2025-03-07,Cerrado,Manuela Pineda,Procedimos con el reembolso completo,2025-03-14,Satisfecho,4
+RCL0267,María Rodríguez,Suavizante,La presentación no es la adecuada,2025-05-09,Pendiente,Sebastián Cárdenas,Fue solucionado con una nueva entrega,2025-05-13,Satisfecho,4
+RCL0268,Paola Castro,Toallas húmedas,El empaque llegó roto,2025-04-03,En proceso,Lucía Peña,Hemos enviado un reemplazo sin costo,2025-04-12,Insatisfecho,2
+RCL0269,María Rodríguez,Detergente líquido,No corresponde con la descripción,2025-02-27,En proceso,Ana Sánchez,El reclamo fue escalado al área de calidad,2025-03-08,Insatisfecho,2
+RCL0270,María Rodríguez,Cepillo de baño,No funcionó correctamente,2025-02-17,Cerrado,Sebastián Cárdenas,Contactamos al cliente para solución,2025-02-18,Muy satisfecho,5
+RCL0271,Juan Pérez,Cloro,No corresponde con la descripción,2025-03-08,Cerrado,Carolina Vélez,Procedimos con el reembolso completo,2025-03-14,Muy insatisfecho,1
+RCL0272,Natalia Jiménez,Jabón antibacterial,No cumplió con mis expectativas,2025-04-02,Pendiente,Sebastián Cárdenas,Procedimos con el reembolso completo,2025-04-07,Muy insatisfecho,1
+RCL0273,Fernando Rojas,Cloro,El empaque llegó roto,2025-04-04,Pendiente,Carolina Vélez,Solicitamos más información al cliente,2025-04-12,Muy insatisfecho,1
+RCL0274,Valentina Mendoza,Cepillo de baño,No cumplió con mis expectativas,2025-03-15,Resuelto,Sebastián Cárdenas,El caso fue cerrado por falta de respuesta,2025-03-21,Satisfecho,4
+RCL0275,María Rodríguez,Detergente líquido,Presentó fugas al primer uso,2025-04-18,Cerrado,Mateo Quintero,Estamos gestionando una compensación,2025-04-19,Neutral,3
+RCL0276,Alejandro Vargas,Detergente líquido,No corresponde con la descripción,2025-03-14,Pendiente,Mateo Quintero,Procedimos con el reembolso completo,2025-03-22,Muy insatisfecho,1
+RCL0277,Laura Martínez,Jabón antibacterial,El empaque llegó roto,2025-03-30,Cerrado,Sebastián Cárdenas,Fue solucionado con una nueva entrega,2025-04-09,Insatisfecho,2
+RCL0278,Paola Castro,Detergente líquido,No funcionó correctamente,2025-05-09,En proceso,Ana Sánchez,Procedimos con el reembolso completo,2025-05-17,Muy insatisfecho,1
+RCL0279,Valentina Mendoza,Detergente líquido,La presentación no es la adecuada,2025-04-20,Cerrado,Esteban Díaz,Contactamos al cliente para solución,2025-04-21,Satisfecho,4
+RCL0280,Juan Pérez,Suavizante,La presentación no es la adecuada,2025-03-13,Resuelto,Pedro Romero,Hemos enviado un reemplazo sin costo,2025-03-18,Insatisfecho,2
+RCL0281,Juan Pérez,Shampoo,Vino abierto o sin sello,2025-03-23,Cerrado,Esteban Díaz,Contactamos al cliente para solución,2025-03-26,Satisfecho,4
+RCL0282,Andrés Gómez,Papel higiénico,Presentó fugas al primer uso,2025-03-25,Cerrado,Pedro Romero,Hemos enviado un reemplazo sin costo,2025-03-27,Insatisfecho,2
+RCL0283,Santiago Ruiz,Cepillo de baño,No cumplió con mis expectativas,2025-05-07,Cerrado,Daniel Ortega,Procedimos con el reembolso completo,2025-05-08,Muy insatisfecho,1
+RCL0284,Luis Herrera,Limpiavidrios,Tuvo un olor desagradable,2025-05-07,Pendiente,Manuela Pineda,Solicitamos más información al cliente,2025-05-13,Neutral,3
+RCL0285,Santiago Ruiz,Shampoo,El producto llegó en mal estado,2025-03-19,En proceso,Daniel Ortega,Estamos gestionando una compensación,2025-03-25,Insatisfecho,2
+RCL0286,Alejandro Vargas,Papel higiénico,Vino abierto o sin sello,2025-04-01,Pendiente,Mateo Quintero,El reclamo fue escalado al área de calidad,2025-04-09,Insatisfecho,2
+RCL0287,Jorge Ramírez,Suavizante,No funcionó correctamente,2025-03-07,En proceso,Daniel Ortega,Hemos enviado un reemplazo sin costo,2025-03-16,Muy insatisfecho,1
+RCL0288,Carlos López,Jabón antibacterial,Presentó fugas al primer uso,2025-03-22,En proceso,Esteban Díaz,El producto será recogido para revisión,2025-03-24,Muy insatisfecho,1
+RCL0289,Alejandro Vargas,Papel higiénico,No hace el efecto esperado,2025-05-05,Resuelto,Daniel Ortega,Procedimos con el reembolso completo,2025-05-10,Muy satisfecho,5
+RCL0290,Andrés Gómez,Detergente líquido,El empaque llegó roto,2025-04-15,Resuelto,Lucía Peña,El caso fue cerrado por falta de respuesta,2025-04-25,Insatisfecho,2
+RCL0291,María Rodríguez,Cepillo de baño,Presentó fugas al primer uso,2025-02-15,Cerrado,Lucía Peña,El producto será recogido para revisión,2025-02-21,Insatisfecho,2
+RCL0292,Andrés Gómez,Cepillo de baño,El empaque llegó roto,2025-04-09,Cerrado,Daniel Ortega,Hemos enviado un reemplazo sin costo,2025-04-10,Muy satisfecho,5
+RCL0293,Santiago Ruiz,Shampoo,No funcionó correctamente,2025-04-02,Cerrado,Esteban Díaz,Fue solucionado con una nueva entrega,2025-04-11,Insatisfecho,2
+RCL0294,Paola Castro,Limpiavidrios,No funcionó correctamente,2025-04-10,En proceso,Ana Sánchez,Hemos enviado un reemplazo sin costo,2025-04-18,Neutral,3
+RCL0295,María Rodríguez,Shampoo,La presentación no es la adecuada,2025-02-27,Resuelto,Mateo Quintero,El reclamo fue escalado al área de calidad,2025-03-04,Insatisfecho,2
+RCL0296,Fernando Rojas,Suavizante,No funcionó correctamente,2025-03-16,Cerrado,Esteban Díaz,Estamos revisando con el proveedor,2025-03-21,Insatisfecho,2
+RCL0297,Diana Torres,Shampoo,Presentó fugas al primer uso,2025-05-01,En proceso,Manuela Pineda,El caso fue cerrado por falta de respuesta,2025-05-02,Neutral,3
+RCL0298,María Rodríguez,Detergente líquido,Tuvo un olor desagradable,2025-02-18,Resuelto,Carolina Vélez,Hemos enviado un reemplazo sin costo,2025-02-26,Muy insatisfecho,1
+RCL0299,Santiago Ruiz,Cepillo de baño,El producto llegó en mal estado,2025-03-11,Resuelto,Manuela Pineda,Estamos revisando con el proveedor,2025-03-21,Satisfecho,4
+RCL0300,Juan Pérez,Cepillo de baño,No hace el efecto esperado,2025-04-25,Resuelto,Mateo Quintero,Estamos revisando con el proveedor,2025-04-27,Muy satisfecho,5
