@@ -68,6 +68,9 @@ class MyCSVVisitor(CSVQueryDSLVisitor):
 
         self.filtered_data = current_data
 
+        if not self.filtered_data:
+            print("⚠️ No se encontraron resultados para los filtros aplicados.")
+
         # Ejecutar agregaciones
         for func, col in self.aggregations:
             try:
