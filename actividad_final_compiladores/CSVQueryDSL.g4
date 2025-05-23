@@ -12,7 +12,23 @@ stat
 loadStat: 'load' STRING ';' ;
 
 filterStat: 'filter' filterExprList ';' ;
-filterExprList: filterExpr (LOGICAL_OP filterExpr)* ;
+
+// Reglas nuevas para precedencia lógica y paréntesis
+filterExprList: filterOrExpr ;
+
+filterOrExpr
+    : filterAndExpr ( 'OR' filterAndExpr )*
+    ;
+
+filterAndExpr
+    : filterAtom ( 'AND' filterAtom )*
+    ;
+
+filterAtom
+    : filterExpr
+    | '(' filterOrExpr ')'
+    ;
+
 filterExpr: 'column' STRING OPERATOR value ;
 
 aggregateStat: 'aggregate' aggregateFunction 'column' STRING ';' ;

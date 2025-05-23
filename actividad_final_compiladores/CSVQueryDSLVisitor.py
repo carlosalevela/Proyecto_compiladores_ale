@@ -34,6 +34,21 @@ class CSVQueryDSLVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
+    # Visit a parse tree produced by CSVQueryDSLParser#filterOrExpr.
+    def visitFilterOrExpr(self, ctx:CSVQueryDSLParser.FilterOrExprContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by CSVQueryDSLParser#filterAndExpr.
+    def visitFilterAndExpr(self, ctx:CSVQueryDSLParser.FilterAndExprContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by CSVQueryDSLParser#filterAtom.
+    def visitFilterAtom(self, ctx:CSVQueryDSLParser.FilterAtomContext):
+        return self.visitChildren(ctx)
+
+
     # Visit a parse tree produced by CSVQueryDSLParser#filterExpr.
     def visitFilterExpr(self, ctx:CSVQueryDSLParser.FilterExprContext):
         return self.visitChildren(ctx)

@@ -53,6 +53,33 @@ class CSVQueryDSLListener(ParseTreeListener):
         pass
 
 
+    # Enter a parse tree produced by CSVQueryDSLParser#filterOrExpr.
+    def enterFilterOrExpr(self, ctx:CSVQueryDSLParser.FilterOrExprContext):
+        pass
+
+    # Exit a parse tree produced by CSVQueryDSLParser#filterOrExpr.
+    def exitFilterOrExpr(self, ctx:CSVQueryDSLParser.FilterOrExprContext):
+        pass
+
+
+    # Enter a parse tree produced by CSVQueryDSLParser#filterAndExpr.
+    def enterFilterAndExpr(self, ctx:CSVQueryDSLParser.FilterAndExprContext):
+        pass
+
+    # Exit a parse tree produced by CSVQueryDSLParser#filterAndExpr.
+    def exitFilterAndExpr(self, ctx:CSVQueryDSLParser.FilterAndExprContext):
+        pass
+
+
+    # Enter a parse tree produced by CSVQueryDSLParser#filterAtom.
+    def enterFilterAtom(self, ctx:CSVQueryDSLParser.FilterAtomContext):
+        pass
+
+    # Exit a parse tree produced by CSVQueryDSLParser#filterAtom.
+    def exitFilterAtom(self, ctx:CSVQueryDSLParser.FilterAtomContext):
+        pass
+
+
     # Enter a parse tree produced by CSVQueryDSLParser#filterExpr.
     def enterFilterExpr(self, ctx:CSVQueryDSLParser.FilterExprContext):
         pass
